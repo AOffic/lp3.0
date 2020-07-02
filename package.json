@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d build"
   },
   "keywords": [],
-  "author": "",
+  "author": "LeetProject",
   "license": "MIT",
   "devDependencies": {
     "cross-env": "^5.2.1",
